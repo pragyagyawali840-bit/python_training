@@ -1,0 +1,3 @@
+Day 1:Started Python learning.
+Day 2:Mastered list sequences.
+Day 3:Exploring safe File I/O.
